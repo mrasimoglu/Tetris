@@ -1,0 +1,4 @@
+﻿  CurrentBlock.cpp
+c:\users\mustafa\documents\visual studio 2017\projects\tetris\tetris\area.h(8): warning C4091: 'extern ' : ignored on left of 'CurrentBlock' when no variable is declared
+c:\users\mustafa\documents\visual studio 2017\projects\tetris\tetris\currentblock.h(7): warning C4091: 'extern ' : ignored on left of 'Area' when no variable is declared
+  Tetris.vcxproj -> C:\Users\Mustafa\documents\visual studio 2017\Projects\Tetris\Debug\Tetris.exe
